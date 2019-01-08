@@ -1,4 +1,4 @@
-#Purpose
+# Purpose
 Content is used to deploy simple a website to the app service from Azure. To use the shell. For fast test deployments use the Azure Deployment button.
 
 # Contributing
